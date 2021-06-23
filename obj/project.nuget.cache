@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wjZQu3QyVr1YkMSPyLCJS0BAFHfFkCDOolkYNvkZUP4HDJPKBy7wCa+7b6dqZAtbXxENYvVGY0t6vOl2iBAJ2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PFahey\\Nelnet-Galvanize\\NumberManipulator\\NumberManipulator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PFahey\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
